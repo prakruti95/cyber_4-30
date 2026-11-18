@@ -1,0 +1,30 @@
+Lecture:
+Mon,Wed,Fri - 4:30 to 6:00
+Tue,Thu,Sat - Anytime[Practice]
+
+System - tops?123
+
+Wifi - tops@0987
+
+Career Center
+
+Github Account Create
+create repository -> Cyber_Workspace
+create file
+upload file
+create folder
+create file -> inside folder
+upload file -> inside folder
+Share your github link-w.app group
+
+Download this : https://github.com/apps/desktop
+Login with your github account
+File->Clone Repository
+select repo - click on clone 
+
+
+
+
+
+
+
