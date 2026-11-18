@@ -1,0 +1,69 @@
+Section 1: Useful Keyboard Shortcuts
+
+| Shortcut            | Function                    |
+| ------------------- | --------------------------- |
+| Windows + E         | Open File Explorer          |
+| Windows + R         | Open Run Dialog Box         |
+| Windows + D         | Show Desktop                |
+| Windows + L         | Lock Computer               |
+| Windows + Tab       | Task View                   |
+| Alt + Tab           | Switch Between Applications |
+| Ctrl + Shift + Esc  | Open Task Manager Directly  |
+| Ctrl + A            | Select All                  |
+| Ctrl + C            | Copy                        |
+| Ctrl + V            | Paste                       |
+| Ctrl + X            | Cut                         |
+| Ctrl + Z            | Undo                        |
+| Ctrl + Y            | Redo                        |
+| F2                  | Rename File                 |
+| F5                  | Refresh                     |
+| Windows + Shift + S | Screenshot Tool             |
+
+
+
+---
+
+Section 2: Run Commands
+
+Press Windows + R and try these commands.
+
+| Command      | Opens                |
+| ------------ | -------------------- |
+| cmd          | Command Prompt       |
+| msconfig     | System Configuration |
+| taskmgr      | Task Manager         |
+| control      | Control Panel        |
+| appwiz.cpl   | Installed Programs   |
+| devmgmt.msc  | Device Manager       |
+| diskmgmt.msc | Disk Management      |
+| services.msc | Windows Services     |
+| ncpa.cpl     | Network Connections  |
+| calc         | Calculator           |
+| notepad      | Notepad              |
+| dxdiag       | DirectX Information  |
+| cleanmgr     | Disk Cleanup         |
+
+Activity:
+Students open 5 different tools using Run commands.
+
+---
+
+Section 3: Basic CMD Commands
+
+Open Command Prompt.
+
+| Command           | Purpose                      |
+| ----------------- | ---------------------------- |
+| hostname          | Shows PC Name                |
+| whoami            | Shows Current User           |
+| ipconfig          | Shows IP Address             |
+| ipconfig /all     | Detailed Network Information |
+| systeminfo        | Complete System Information  |
+| tasklist          | Running Processes            |
+| cls               | Clear Screen                 |
+| date              | Show Current Date            |
+| time              | Show Current Time            |
+| shutdown /s /t 60 | Shutdown after 60 Seconds    |
+| shutdown /a       | Cancel Shutdown              |
+| tree              | Display Folder Structure     |
+| dir               | Show Files and Folders       |
