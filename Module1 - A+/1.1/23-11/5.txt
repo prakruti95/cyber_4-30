@@ -1,0 +1,249 @@
+# Day 4: GPUs and Cooling Systems
+
+## Theory (30 Minutes)
+
+### 1. What is a GPU?
+
+A **GPU (Graphics Processing Unit)** is a specialized processor designed to handle graphics rendering and parallel computations.
+
+Common uses:
+
+* Gaming
+* Video editing
+* 3D rendering
+* Artificial Intelligence (AI)
+* Machine Learning
+* Cryptocurrency mining
+
+### Types of GPUs
+
+#### Integrated GPU (iGPU)
+
+Built into the CPU.
+
+**Advantages:**
+
+* Lower power consumption
+* Lower cost
+* Suitable for office work and media playback
+
+**Examples:**
+
+* Intel UHD Graphics
+* AMD Radeon Graphics (integrated)
+
+#### Dedicated (Discrete) GPU
+
+A separate expansion card installed in a PCIe slot.
+
+**Advantages:**
+
+* Much higher performance
+* Dedicated video memory (VRAM)
+* Better for gaming and professional workloads
+
+**Examples:**
+
+* NVIDIA GeForce RTX series
+* AMD Radeon RX series
+
+---
+
+### 2. GPU Components
+
+A graphics card typically contains:
+
+* GPU Chip (the processor)
+* VRAM (Video Memory)
+* Cooling System
+* PCIe Connector
+* Display Outputs (HDMI, DisplayPort)
+
+### Common GPU Ports
+
+* HDMI
+* DisplayPort
+* DVI (older)
+* VGA (very old)
+
+---
+
+## 3. Cooling Systems
+
+Computer components generate heat and must be cooled to operate safely.
+
+Main components needing cooling:
+
+* CPU
+* GPU
+* Power Supply
+* Case interior
+
+---
+
+## 4. Air Cooling
+
+Air cooling uses:
+
+* Heat sink
+* Cooling fan
+
+### How It Works
+
+1. Heat moves from the CPU/GPU into the heatsink.
+2. The heatsink spreads the heat.
+3. The fan blows air across the fins.
+4. Heat is expelled from the case.
+
+### Advantages
+
+* Affordable
+* Reliable
+* Easy to install
+* Low maintenance
+
+### Disadvantages
+
+* Can be noisy
+* Less efficient for extreme workloads
+
+---
+
+## 5. Liquid Cooling
+
+Liquid cooling uses:
+
+* Water block
+* Pump
+* Tubes
+* Radiator
+* Fans
+
+### How It Works
+
+1. Coolant absorbs heat from the CPU.
+2. Pump circulates coolant.
+3. Radiator releases heat.
+4. Coolant returns to the CPU block.
+
+### Advantages
+
+* Better cooling performance
+* Quieter operation
+* Attractive appearance
+
+### Disadvantages
+
+* More expensive
+* More complex
+* Potential leak risk (rare in quality systems)
+
+---
+
+## Air Cooling vs Liquid Cooling
+
+| Feature             | Air Cooling | Liquid Cooling |
+| ------------------- | ----------- | -------------- |
+| Cost                | Lower       | Higher         |
+| Installation        | Easier      | More complex   |
+| Maintenance         | Minimal     | Moderate       |
+| Cooling Performance | Good        | Excellent      |
+| Noise               | Moderate    | Usually lower  |
+
+---
+
+## Practical (30 Minutes)
+
+### Activity 1: Identify the GPU
+
+Open the PC case and locate:
+
+✅ Graphics card installed in the PCIe x16 slot
+
+Look for:
+
+* Large expansion card
+* One or more cooling fans
+* HDMI/DisplayPort outputs
+* PCIe power connectors (6-pin, 8-pin, or 12VHPWR)
+
+### Questions
+
+1. Is the GPU integrated or dedicated?
+2. How many fans does it have?
+3. Which display outputs are available?
+
+---
+
+## Activity 2: Identify the CPU Cooling System
+
+Locate the cooler directly above the CPU.
+
+### Air Cooler Indicators
+
+* Large metal heatsink
+* One or two fans
+* No tubes
+
+### Liquid Cooler Indicators
+
+* Tubes connected to CPU block
+* Radiator mounted in case
+* Radiator fans
+
+---
+
+## Activity 3: Identify Case Airflow
+
+Find:
+
+* Front intake fans
+* Rear exhaust fan
+* Top exhaust fans (if present)
+
+### Typical Airflow Pattern
+
+```
+Front Fans  --->  Cool Air In
+
+CPU/GPU Cooling
+
+Rear/Top Fans ---> Hot Air Out
+```
+
+Good airflow helps:
+
+* Lower temperatures
+* Better performance
+* Longer component lifespan
+
+---
+
+## Quick Quiz
+
+1. What does GPU stand for?
+2. Which slot is typically used for a graphics card?
+3. What is VRAM used for?
+4. Which cooling method uses a radiator and pump?
+5. What is the main purpose of case fans?
+
+### Answers
+
+1. Graphics Processing Unit
+2. PCIe x16 slot
+3. Storing graphics-related data and textures
+4. Liquid cooling
+5. Moving air through the case to remove heat
+
+---
+
+## Learning Goal
+
+By the end of Day 4, you should be able to:
+
+* Explain the role of a GPU.
+* Distinguish between integrated and dedicated graphics.
+* Identify major GPU components.
+* Compare air cooling and liquid cooling systems.
+* Locate GPU and cooling hardware inside a PC.
+* Understand basic PC airflow concepts.

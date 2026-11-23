@@ -1,0 +1,176 @@
+# Day 3: RAM and Storage
+
+## Theory (30 Minutes)
+
+### 1. Types of RAM
+
+**RAM (Random Access Memory)** is temporary memory used by the CPU to store data that is actively being used.
+
+| Type     | Speed          | Voltage | Common Use                      |
+| -------- | -------------- | ------- | ------------------------------- |
+| **DDR3** | 800–2133 MT/s  | 1.5V    | Older PCs                       |
+| **DDR4** | 2133–5333 MT/s | 1.2V    | Most modern PCs                 |
+| **DDR5** | 4800+ MT/s     | 1.1V    | Latest high-performance systems |
+
+### Key Differences
+
+* **DDR4 is faster and more efficient than DDR3.**
+* **DDR5 offers higher bandwidth and capacity than DDR4.**
+* RAM generations are **not physically compatible** with each other due to different notch positions.
+
+### Important RAM Terms
+
+* **Capacity:** 8GB, 16GB, 32GB, etc.
+* **Speed:** Measured in MHz or MT/s.
+* **Dual Channel:** Using two matching RAM sticks for improved performance.
+* **Latency (CL):** Delay before data access.
+
+---
+
+## 2. Storage Types
+
+### Hard Disk Drive (HDD)
+
+An HDD uses spinning magnetic disks to store data.
+
+**Advantages:**
+
+* Large storage capacity
+* Lower cost per GB
+
+**Disadvantages:**
+
+* Slower performance
+* More prone to mechanical failure
+* Noisy operation
+
+### Solid State Drive (SSD)
+
+An SSD uses flash memory with no moving parts.
+
+**Advantages:**
+
+* Faster boot times
+* Faster file transfers
+* More reliable
+* Silent operation
+
+**Disadvantages:**
+
+* Higher cost per GB than HDDs
+
+---
+
+## 3. SATA SSD vs NVMe SSD
+
+| Feature       | SATA SSD       | NVMe SSD         |
+| ------------- | -------------- | ---------------- |
+| Interface     | SATA           | PCIe             |
+| Typical Speed | Up to 550 MB/s | 2000–14000+ MB/s |
+| Connector     | SATA cable     | M.2 slot         |
+| Performance   | Good           | Excellent        |
+
+### Storage Comparison
+
+| Type     | Speed     | Cost     |
+| -------- | --------- | -------- |
+| HDD      | Slow      | Cheapest |
+| SATA SSD | Fast      | Moderate |
+| NVMe SSD | Very Fast | Higher   |
+
+---
+
+## Practical (30 Minutes)
+
+### Safety First
+
+Before handling components:
+
+1. Shut down the PC.
+2. Unplug the power cable.
+3. Press the power button for a few seconds to discharge remaining electricity.
+4. Touch a metal part of the case to reduce static electricity.
+
+---
+
+## Activity 1: Remove and Reinstall RAM
+
+### Removing RAM
+
+1. Locate the RAM slots.
+2. Push down the locking clips on both ends.
+3. The RAM module will pop up slightly.
+4. Pull it straight out.
+
+### Reinstalling RAM
+
+1. Align the notch on the RAM stick with the slot.
+2. Insert evenly.
+3. Press firmly until the clips lock automatically.
+
+**Check:** Both locking tabs should be fully engaged.
+
+---
+
+## Activity 2: Remove and Reinstall a SATA Drive
+
+### Removing
+
+1. Disconnect the SATA data cable.
+2. Disconnect the SATA power cable.
+3. Unscrew or release the drive from its mounting bracket.
+
+### Reinstalling
+
+1. Secure the drive in the bay.
+2. Connect the SATA data cable to the motherboard.
+3. Connect the SATA power cable from the power supply.
+
+---
+
+## Activity 3: Remove and Reinstall an M.2 NVMe SSD
+
+### Removing
+
+1. Locate the M.2 slot.
+2. Remove the retaining screw.
+3. Lift the SSD slightly.
+4. Pull it out at an angle.
+
+### Reinstalling
+
+1. Insert the SSD into the M.2 slot at about a 30° angle.
+2. Push it down gently.
+3. Secure it with the retaining screw.
+
+**Check:** The SSD should lie flat after installation.
+
+---
+
+## Quick Quiz
+
+1. What is the main purpose of RAM?
+2. Which RAM type is newer: DDR4 or DDR5?
+3. What is the biggest advantage of an SSD over an HDD?
+4. Which storage device uses the PCIe interface?
+5. Why should you ground yourself before touching components?
+
+### Answers
+
+1. To temporarily store data being actively used by the CPU.
+2. DDR5.
+3. Faster performance and no moving parts.
+4. NVMe SSD.
+5. To prevent static electricity from damaging components.
+
+---
+
+## Learning Goal
+
+By the end of Day 3, you should be able to:
+
+* Differentiate between DDR3, DDR4, and DDR5 RAM.
+* Compare HDDs, SATA SSDs, and NVMe SSDs.
+* Safely remove and reinstall RAM modules.
+* Safely remove and reinstall SATA and M.2 storage drives.
+* Identify common storage connectors and slots on a motherboard.
